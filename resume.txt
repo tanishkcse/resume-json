@@ -1,0 +1,80 @@
+{
+  "name": "Tanishk Yadav",
+  "contact_info": {
+    "email": "tanishkcse7413@gmail.com",
+    "phone": "7413938042",
+    "address": "Sarangpur , M.P",
+    "linkedin": "tanishyadav-933",
+    "github": "tanishkcse"
+  },
+  "skills": {
+    "languages": ["C++", "Java", "JavaScript"],
+    "frameworks": ["HTML and CSS", "Bootstrap", "NodeJS", "React"],
+    "tools_platforms": ["MySQL", "MongoDB"],
+    "soft_skills": ["Problem-Solving Skills", "Team Player", "Adaptability"]
+  },
+  "internships": [
+    {
+      "company": "Unschool",
+      "position": "Full Stack Intern",
+      "duration": "May 2023 - July 2023",
+      "responsibilities": [
+        "Website Development & Software Testing",
+        "Gained hands-on experience in developing, implementing, and maintaining web applications",
+        "Assisted the technical and business staff with the design, development, testing, implementation using React Js",
+        "Performed automated and manual tests to ensure the software created by developers was up to date",
+        "Detected and tracked software bugs and inconsistencies in the program"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Weatherio",
+      "description": "Developed a Web application for weather forecasting",
+      "duration": "March 2023 - April 2023",
+      "details": [
+        "Displayed details like current weather condition, upcoming 5-day’s weather, air quality index",
+        "Utilized OpenWeather API for real-time weather forecasting",
+        "Many users are using this website for accurate weather forecasting"
+      ],
+      "technologies": ["React", "Node", "Express", "Postman"]
+    },
+    {
+      "name": "VideoStream",
+      "description": "Created a video stream website like YouTube with more advanced features",
+      "duration": "April 2024 - June 2024",
+      "details": [
+        "Provided secure login and signup facilities for both users and admins",
+        "Enabled user to seamlessly stream videos without any ad interruption",
+        "Allowed user to like, comment, subscribe and upload videos"
+      ],
+      "technologies": ["React", "Node", "Express", "MongoDB"]
+    },
+    {
+      "name": "Chatting App",
+      "description": "Built an online chatting app which enabled users to chat with random people",
+      "duration": "June 2024 - July 2024",
+      "details": [
+        "Enabled secure registration and login for users",
+        "Allowed admins to create chat rooms where they can build a community",
+        "Provided features such as video calls and online meetings"
+      ],
+      "technologies": ["Java", "MongoDB", "WebSocket", "WebRTC"]
+    }
+  ],
+  "certifications": [
+    {"name": "Complete Introduction to MongoDB", "institution": "MONGODB UNIVERSITY", "date": "July 2024"},
+    {"name": "Full Stack", "institution": "META", "date": "July 2023"},
+    {"name": "Data structure and Algorithm", "institution": "GeeksForGeeks", "date": "Aug 2023"}
+  ],
+  "achievements": [
+    {"name": "Defend the Kingdom Hackathon", "date": "Feb 2024", "details": "Runner up in a hackathon organized by Infineon technology"},
+    {"name": "LeetCode and Geeks for geeks contests", "date": "Since 2024", "details": "Top 4k among more than 30k participant in LeetCode Biweekly Contest"},
+    {"name": "Smart India Hackathon", "date": "Sep 2023", "details": "Among top finalist Smart India hackathon among 500+ students"}
+  ],
+  "education": [
+    {"degree": "B. Tech- Computer Science and Engineering", "institution": "Lovely Professional University", "location": "Punjab, India", "CGPA": "6.94", "duration": "Since August 2021"},
+    {"degree": "12th", "institution": "M.B Convent Higher Secondary", "location": "Sarangpur, M.P", "percentage": "86.6%", "duration": "April 2019 - March 2020"},
+    {"degree": "10th", "institution": "M.B Convent Higher Secondary", "location": "Sarangpur, M.P", "percentage": "86%", "duration": "April 2018 - March 2019"}
+  ]
+}
